@@ -29,6 +29,10 @@ chmod +x install-nethunter-termux
 # Requirement 
 
 1- 15Gb storage
+
 2- min 4 Gb internet(data)
+
 3-min 4Gb ram 
+
 Vnc or RD client app
+
